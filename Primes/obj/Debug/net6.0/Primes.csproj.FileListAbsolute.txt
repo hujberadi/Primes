@@ -1,0 +1,14 @@
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\bin\Debug\net6.0\Primes.exe
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\bin\Debug\net6.0\Primes.deps.json
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\bin\Debug\net6.0\Primes.runtimeconfig.json
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\bin\Debug\net6.0\Primes.dll
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\bin\Debug\net6.0\Primes.pdb
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\Primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\Primes.AssemblyInfoInputs.cache
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\Primes.AssemblyInfo.cs
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\Primes.csproj.CoreCompileInputs.cache
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\Primes.dll
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\refint\Primes.dll
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\Primes.pdb
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\Primes.genruntimeconfig.cache
+C:\Users\Hujber Ádám\Desktop\Primes\Primes\obj\Debug\net6.0\ref\Primes.dll
